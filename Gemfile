@@ -3,5 +3,5 @@
 source "https://rubygems.org"
 
 gem "fastlane"
-gem "cocoapods"
+gem "cocoapods", ">= 1.11.3"
 gem "xcode-install"
